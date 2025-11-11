@@ -4,7 +4,8 @@
 This repository contains core Data Structures and Algorithms (DSA) practice programs implemented in Java.
 Each concept is organized into folders with simple and well-commented code to understand the logic behind each implementation.
 
-🧩 Concepts Covered
+🧩 Concepts Covered 
+
 🧱 1. Stack
 
 Stack basic operations (push, pop, peek)
