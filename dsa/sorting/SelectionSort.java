@@ -1,4 +1,4 @@
-package DataStructure.Sorting;
+package dsa.sorting;
 
 import java.util.Arrays;
 
@@ -13,7 +13,7 @@ public class SelectionSort {
 
             for(int j=i+1 ; j<n ; j++)
             {
-                if(arr[minindex] > arr[j])  // finding the minimum element in the unsorted part
+                if(arr[minindex] > arr[j]) 
                 {
                     minindex = j;
                 }

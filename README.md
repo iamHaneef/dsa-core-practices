@@ -1,25 +1,26 @@
 # DSA Core Practices
 
-## Overview
-
-This repository contains core Data Structures and Algorithms (DSA) implementations in Java.  
-Each concept is organized into folders with simple and clear code to understand the underlying logic.
+This repository contains implementations of core Data Structures and Algorithms (DSA) in Java, organized by topic for clarity and learning.
 
 ---
 
-## Concepts Covered
+## Repository Structure
 
-### Stack
-- Push, Pop, Peek operations  
-- Implementation using array and class  
+### Arrays
+- Subarray sum  
+- Matrix operations  
+- Second largest element  
 
-### Queue
-- Basic queue implementation  
-- Enqueue, Dequeue, Display  
+### Linked Lists
+- Singly Linked List  
 
-### Circular Queue
+### Stacks
 - Array-based implementation  
-- Handling overflow and underflow  
+- Stack operations  
+
+### Queues
+- Simple Queue  
+- Circular Queue  
 
 ### Searching
 - Linear Search  
@@ -29,3 +30,13 @@ Each concept is organized into folders with simple and clear code to understand 
 - Bubble Sort  
 - Selection Sort  
 - Insertion Sort  
+
+---
+
+## Getting Started
+
+Each file is a standalone Java program.
+
+```bash
+javac File.java
+java File
