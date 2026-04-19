@@ -15,7 +15,7 @@ This repository contains implementations of core Data Structures and Algorithms 
 - Singly Linked List  
 
 ### Stacks
-- Array-based implementation  
+- Array-based implementation
 - Stack operations  
 
 ### Queues
