@@ -1,10 +1,12 @@
-# DSA Core Practices
+# Data Structures and Algorithms
 
-This repository contains implementations of core Data Structures and Algorithms (DSA) in Java, organized by topic for clarity and learning.
+## 📌 Overview
+
+A collection of core Data Structures and Algorithms (DSA) implementations in Java, organized by topic for structured learning and practice.
 
 ---
 
-## Repository Structure
+## ⚡ Topics Covered
 
 ### Arrays
 - Subarray sum  
@@ -15,7 +17,7 @@ This repository contains implementations of core Data Structures and Algorithms 
 - Singly Linked List  
 
 ### Stacks
-- Array-based implementation
+- Array-based implementation  
 - Stack operations  
 
 ### Queues
@@ -33,10 +35,28 @@ This repository contains implementations of core Data Structures and Algorithms 
 
 ---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-Each file is a standalone Java program.
+- Java  
+
+---
+
+## 📂 Project Structure
 
 ```bash
-javac File.java
-java File
+data-structures-and-algorithms/
+│
+├── arrays/
+├── linked-lists/
+├── stacks/
+├── queues/
+├── searching/
+├── sorting/
+└── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Compile and run Java programs using `javac` and `java`.
